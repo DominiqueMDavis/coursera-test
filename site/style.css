@@ -1,3 +1,7 @@
+body {
+	font-family:  Arial, Helvetica, sans-serif;
+}
+
 h1 {
 	font-size: 130%;
 	background-color: dimgray;
@@ -7,6 +11,6 @@ h1 {
 .main {
 	background-color: orange;
 	font-size: 14px;
-	font-family: arial;
 	width: 250px;
+	text-align: center;
 }
