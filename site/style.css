@@ -1,10 +1,12 @@
 h1 {
 	font-size: 130%;
 	background-color: dimgray;
+	width:  200px;
 }
 
 .main {
 	background-color: orange;
 	font-size: 14px;
 	font-family: arial;
+	width: 250px;
 }
